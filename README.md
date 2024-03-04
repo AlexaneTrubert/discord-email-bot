@@ -12,11 +12,11 @@ Discord bot that checks emails and sends all unread messages to a discord channe
 `TOKEN = 'TOKEN_DISCORD_BOT'`
 
 ### Id for email
-`EMAIL = 'EMAIL'`
+`EMAIL = 'EMAIL'`  
 `PASSWORD = 'PASSWORD'`
 
 ### Id for serveur, channel and role to ping
-`GUILD_ID = `
-`CHANNEL_ID = `
+`GUILD_ID = `  
+`CHANNEL_ID = `  
 `SUPPORT_ROLE_ID = `
 
